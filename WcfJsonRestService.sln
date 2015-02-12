@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfJsonRestService", "WcfJsonRestService\WcfJsonRestService.csproj", "{E3D39403-0DE5-42FD-A9B5-DDBCCF1105DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJsonRestClient", "WebJsonRestClient\WebJsonRestClient.csproj", "{DD6F0461-3058-4EB3-AA9C-314007141BE0}"
+EndProject
+Global
+	
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3D39403-0DE5-42FD-A9B5-DDBCCF1105DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D39403-0DE5-42FD-A9B5-DDBCCF1105DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D39403-0DE5-42FD-A9B5-DDBCCF1105DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D39403-0DE5-42FD-A9B5-DDBCCF1105DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6F0461-3058-4EB3-AA9C-314007141BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6F0461-3058-4EB3-AA9C-314007141BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6F0461-3058-4EB3-AA9C-314007141BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6F0461-3058-4EB3-AA9C-314007141BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
