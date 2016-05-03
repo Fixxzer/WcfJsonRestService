@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <br />
-    <asp:TextBox ID="txtInputValue" runat="server"></asp:TextBox>
+    <asp:TextBox ID="txtInputValue" runat="server" Text="7"></asp:TextBox>
     <asp:Button ID="btnSend" runat="server" Text="Send JSON" OnClick="btnSend_OnClick" />
 
 </asp:Content>
